@@ -1,0 +1,1 @@
+print("sono una x molto carina")
